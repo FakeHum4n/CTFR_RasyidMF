@@ -10,7 +10,9 @@ Dengan hint:
 Semua Challenge ada Hint yang akan membantu kalian untuk menyelesaikan challenge, dan pastinya Hint harus dibayar menggunakan point skor kalian. Dan untuk First Flag ini gratis, Kalian hanya konversi angka tersebut menjadi _deadbeef_, Kemudian hasil nya di konversi lagi dan lagi sampai mendapatkan flag! Easy kok.
 ```
 Maka dari itu, hal pertama yang Saya lakukan adalah melakukan konversi nilai dari desimal ke deadbeef:
-![[Pasted image 20210818144439.png]]
+![2021-08-18 14_51_56-Window](https://user-images.githubusercontent.com/46299092/129859760-6ec8e984-c5bd-4305-86ac-b264de6edd42.png)
+
+
 link : [deadbeef base converter](https://deadbeef.app/)
 
 Sehingga didapatlah nilai hex:
@@ -30,4 +32,4 @@ Q1RGUnt0aDFzXzFzX3lvdXJfZjFyc3RfZmw0Z30K
 ```
 
 Lalu, Saya lakukan decode lagi dan diapatlah flagnya
-![[2021-08-18 14_40_15-Window.png]]
+![2021-08-18 14_40_15-Window](https://user-images.githubusercontent.com/46299092/129859577-a89158ed-785b-4ccc-b659-d76f18216165.png)

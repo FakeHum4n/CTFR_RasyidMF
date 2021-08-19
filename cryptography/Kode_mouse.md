@@ -1,5 +1,5 @@
 # Kode_mouse
-#cryptography
+#cryptography #Kode_mouse #ctfr #rasyidmf #LAY0ut_team
 
 Soal:
 > Mouse juga mempunyai kode untuk melakukan klik pada sebuah komputer, akan tetapi hal ini lah yang membuat komputer dapat bergerak, Tanpa mouse PC / Laptop kita tidak ada guna nya :). salah satunya coba decode ini, _Flag Format nya harus tetap di ikuti ya!_.  

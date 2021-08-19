@@ -17,6 +17,6 @@ Jika merujuk pada judul soalnya `V-gen` maka saya asumsikan bahwa ini adalah vig
 
 link : [Vigenere Cipher - Online Decoder, Encoder, Solver, Translator (dcode.fr)](https://www.dcode.fr/vigenere-cipher)
 
-##### note: Di dalam soal sempat dimention bahwa `Kalo sudah bisa mencocokan, Silahkan pakai Diskonnya di Last Flag :D`, yang mana artinya kemungkinan besar cara untuk mensolving soal `last flag` tidak jauh beda dengan soal ini
+##### note: Di dalam soal sempat dimention bahwa `'Kalo sudah bisa mencocokan, Silahkan pakai Diskonnya di Last Flag :D'`, yang mana artinya kemungkinan besar cara untuk mensolving soal `last flag` tidak jauh beda dengan soal ini
 
-Soal last flag : [Last_flag)](https://www.dcode.fr/vigenere-cipher)
+Soal last flag : [Last_flag](https://github.com/F4KEHOOMAN/CTFR_RasyidMF/blob/main/cryptography/Last_flag.md)

@@ -12,5 +12,6 @@ Soal:
 Penyelesaian:
 Jika merujuk pada judul soalnya, maka seharusnya flag tersebut dienkripsi dengan menggunakan algoritma ROT-13
 
-![[7.png]]
+![7](https://user-images.githubusercontent.com/46299092/129994318-9c22473e-0a1e-4ff0-901e-163ebe9c3188.png)
+
 link : [cyberchef](https://gchq.github.io/CyberChef)

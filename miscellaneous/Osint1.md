@@ -1,5 +1,5 @@
 # Osint_1
-#misc #ctfr #rasyidmf #LAY0ut_team
+#misc #Osint1 #ctfr #rasyidmf #LAY0ut_team
 
 Soal :
 > Mimin mempunyai akun pada platform terbesar penyedia game, dengan akun id bernama **rasthas**. Nah coba cari mimin di platform tersebut yaah :D.

@@ -1,5 +1,5 @@
 # Second_Flag
-#cryptography 
+#cryptography #Second_Flag #ctfr #rasyidmf #LAY0ut_team
 
 Soal :
 > Sebelumnya sudah mengenal yang namanya Encode dan Decode Yaah ? Sekarang masih sama, cuman jika kamu melihatnya challenge ini sebagai unik, maka pelajaran bagi anda :D.  

@@ -9,6 +9,7 @@ Soal :
 
 Penyelesaian :
 Dari soal tersebut jelas sekali bahwa kita hanya perlu mengkonversi bilangan hexa tersebut kedalam bentuk ascii
-![[desimal.png]]
+![desimal](https://user-images.githubusercontent.com/46299092/130030435-7e48261b-4c6c-4a2a-a415-39b7f52aec3d.png)
+
 
 Link : [Convert Decimal to ASCII - Online ASCII Tools](https://onlineasciitools.com/convert-decimal-to-ascii)

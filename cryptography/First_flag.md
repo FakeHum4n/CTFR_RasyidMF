@@ -1,5 +1,5 @@
 # First_Flag
-#cryptography
+#cryptography #First_flag #ctfr #rasyidmf #LAY0ut_team
 
 Pada soal ini kita disuguhkan sekumpulan angka sebagai berikut :
 ```

@@ -11,6 +11,7 @@ Soal :
 Penyelesaian :
 
 Berdasarkan penjelasan dari soal, maka dapat disimpulkan bahwa algoritma enkripsi memanfaatkan keyboard tipe `qwerty`. Sebenarnya kalian bisa mendecrypt flag tersebut secara manual, namun karena saya terlalu malas, maka saya menggunakan decryptor online
-![[keyboard.png]]
+![keyboard](https://user-images.githubusercontent.com/46299092/130031610-59f6786e-5e37-4410-a0a4-9edc5457aaec.png)
+
 
 Link : [Keyboard Shift Cipher - Qwerty/Azerty - Online Decoder, Translator (dcode.fr)](https://www.dcode.fr/keyboard-shift-cipher)

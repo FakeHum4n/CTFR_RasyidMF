@@ -9,7 +9,7 @@ Soal :
 _Selalu ingat yaa, Format Flag harus Kapital_
 
 Penyelesaian :
-Berdasarkan penjelasan dari soal tersebut, maka dapat saya simpulkan bahwa enkripsi yang digunakan bernama [NATO phonetic alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet) Biasanya untuk menyelesaiakn soal dengan tipe seperti ini, kita cukup mengamati huruf awal dari setiap kata saja untuk mendapatkan pesan yang aslinya(Flagnya)
+Berdasarkan penjelasan dari soal tersebut, maka dapat saya simpulkan bahwa enkripsi yang digunakan bernama [NATO phonetic alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet) . Biasanya untuk menyelesaiakn soal dengan tipe seperti ini, kita cukup mengamati huruf awal dari setiap kata saja untuk mendapatkan pesan yang aslinya(Flagnya), namun kita juga dapat menggunakan tools online jika string yang akan didecrypt terlalu panjang
 
 ![alphabt](https://user-images.githubusercontent.com/46299092/130033850-af9e6167-d1c5-4126-95ee-4dda2f6fcb77.png)
 

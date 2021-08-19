@@ -1,3 +1,6 @@
+# Dasar32
+#cryptography
+
 Soal:
 
 > Belum bisa menyelesaikan First Flag ? Silahkan cari tau bagaimana mengkonversi flag ini menjadi teks yang bisa di baca  

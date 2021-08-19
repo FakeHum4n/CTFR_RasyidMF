@@ -11,9 +11,10 @@ _Selalu ingat yaa, Format Flag harus Kapital_
 Penyelesaian :
 Berdasarkan penjelasan dari soal tersebut, maka dapat saya simpulkan bahwa enkripsi yang digunakan bernama [NATO phonetic alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet) Biasanya untuk menyelesaiakn soal dengan tipe seperti ini, kita cukup mengamati huruf awal dari setiap kata saja untuk mendapatkan pesan yang aslinya(Flagnya)
 
-![[alphabt.png]]
+![alphabt](https://user-images.githubusercontent.com/46299092/130033850-af9e6167-d1c5-4126-95ee-4dda2f6fcb77.png)
+
 
 Link : [NATO phonetic alphabet online translator — Cryptii](https://cryptii.com/pipes/nato-phonetic-alphabet)
 
-##### Jangan lupa, untuk mengubah stringnya dari `ctfr{abcd}` --> `CTFR{abcd}`
+##### Note : Jangan lupa, untuk mengubah stringnya dari `ctfr{abcd}` menjadi `CTFR{abcd}`
 

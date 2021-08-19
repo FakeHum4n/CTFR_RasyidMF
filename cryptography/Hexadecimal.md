@@ -10,5 +10,8 @@ Soal :
 Penyelesaian:
 
 Dari soal tersebut jelas sekali bahwa kita hanya perlu mengkonversi bilangan hexa tersebut kedalam bentuk ascii
-![[hextoasci.png]]
+
+![hextoasci](https://user-images.githubusercontent.com/46299092/130017314-8c0f7114-f9d7-4289-8f68-15974296f2ee.png)
+
+
 link : [Hex to ASCII | Hex to Text converter (rapidtables.com)](https://www.rapidtables.com/convert/number/hex-to-ascii.html)

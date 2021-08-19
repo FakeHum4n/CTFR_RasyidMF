@@ -9,6 +9,8 @@ Soal:
 Penyelesaian:
 
 Dari soal diatas jelasi sekali bahwa kita disuruh untuk mengkonversi angka biner tersebut menjadi ascii
+
+
 ![kodevuber](https://user-images.githubusercontent.com/46299092/130016274-445200c5-649d-4a2a-9b24-fd9c8fe83839.png)
 
 

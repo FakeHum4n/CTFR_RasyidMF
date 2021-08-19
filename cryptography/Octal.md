@@ -11,6 +11,7 @@ Penyelesaian :
 
 Sesuai judul soalnya, maka untuk mendapatkan flagnya kita cukup mengkonversi angka berbasis octal tersebut kedalam bentuk ascii
 
-![[octal.png]]
+![octal](https://user-images.githubusercontent.com/46299092/130036071-805faca7-cd93-40b9-87ca-dfc0222242e1.png)
+
 
 Link : [Convert Octal to ASCII - Online ASCII Tools](https://onlineasciitools.com/convert-octal-to-ascii)

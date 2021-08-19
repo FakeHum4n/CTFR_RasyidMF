@@ -1,5 +1,5 @@
-# Osint2 #ctfr #rasyidmf #LAY0ut_team
-#misc #ctfr #rasyidmf
+# Osint 2 
+#misc #osint2 #ctfr #rasyidmf #LAY0ut_team
 
 > Soal : Tentunya setiap orang-orang memiliki hobi bermain kan ? Nah mimin juga memiliki hobi bermain. Coba cari tau mimin suka bermain apa :D
 

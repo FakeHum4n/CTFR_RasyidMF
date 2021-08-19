@@ -1,5 +1,5 @@
 # Bahasa_bayi
-#cryptography 
+#cryptography #Bahasa_bayi #ctfr #rasyidmf #LAY0ut_team
 
 Soal:
 > Bahasa Bayi kira kria nya seperti ini kan ababaabababab, Nah jika sudah tau coba translate Bahasa Bayi yang satu ini  

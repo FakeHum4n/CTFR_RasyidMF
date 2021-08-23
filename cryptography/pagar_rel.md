@@ -10,4 +10,4 @@ Soal :
 Penyelesaian :
 Untuk mendecrypt flag tersebut kita harus menggunakan rail fence chipher, maka kita langsung decrypt saja dengan key dan offset masing - masing 4:
 
-![[pagarrel.png]]
+![pagarrel](https://user-images.githubusercontent.com/46299092/130436313-84f89cc9-f379-4776-866b-e8cce3bcecf9.png)

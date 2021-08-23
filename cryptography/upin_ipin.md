@@ -12,6 +12,7 @@ Ipin : "Jom"
 Jawaban :
 Untuk mendecrypt chiphertext tersebut kita dapat menggunakan affine chipher, satu - satunya clue yang terdapat pada soal yang saya sadari adalah judul soal karena upin, ipin, dan affine:
 
-![[apin.png]]
+![apin](https://user-images.githubusercontent.com/46299092/130409091-b1895a27-0fef-43eb-aefd-2ef82ad36269.png)
+
 
 link : [Affine Cipher - Online Decryption, Decoder, Encoder, Calculator (dcode.fr)](https://www.dcode.fr/affine-cipher)
